@@ -1,0 +1,8 @@
+Arquivo responsividade
+
+- window resizer -> Extensão do google chrome.
+. Vai na google web store e faz a busca por essa extensão.
+. Baixa a extensão e deixa ele travado na barra de extensões.
+. Abre ele, clica no "izinho" até abrir as configurações e marca "Permitir acesso aos URLS do arquivo
+- margin: auto - deixa o conteúdo centralizado da tag
+- tag picture e max e min width (largura) na imagem

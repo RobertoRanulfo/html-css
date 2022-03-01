@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+/* Tudo que em HTML é id em CSS será # no caso abaixo não seria necessário colocar h1#principal, bastaria inserir #principal     lembrando que principal é apenas uma palavra aleatória*/
+
+/* Tudo que em HTML é class em CSS é .*/
+
+
+body {
+    background-color: #d6fde9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #1e402f;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #3c805e;
+    color: white;
+}
+
+h2 {
+    color: rgb(51, 77, 49);
+}
+
+h2.basico { 
+    color: #3c805e;
+    font-weight: bold;
+}
+
+.intermediario { /* mesmo sem indicar que h2 ele ficará para o h2 e pode ser utilizando junto com a tag spam para ser utilizado em textos específicos fora da tag h2*/
+    color: #80793c;
+    font-weight: bolder;
+}
+
+.avancado {
+    color: #803c3c;
+}
+
+.destaque {
+    background-color: #c5c56070;
+}
